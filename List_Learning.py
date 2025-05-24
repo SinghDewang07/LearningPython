@@ -49,3 +49,11 @@ print(car)
 # .insert is used to add the items in the list at specific position
 car.insert(2,"bently")
 print(car)
+
+# .remove method is used to remove the items from the list
+car.remove("bmw")
+print(car)
+
+#.pop is used the pop the emement form the list by giving the index value.
+car.pop(1)
+print(car)
